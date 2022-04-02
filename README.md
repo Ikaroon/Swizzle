@@ -49,7 +49,7 @@ var c = vector.To4D(D3_D4.ZYXX);
 ```
 You can also generate a swizzle mask like so:
 ```C#
-var swizzleMask = new Mask3D(Mask.X, Mask.Z, Mask.W);
+var swizzleMask = new Mask3D(Mask.X, Mask.Z, Mask.Y);
 var vector = new Vector3(1, 2, 3);
 var result = vector.To3D(swizzleMask.ToMask());
 ```
