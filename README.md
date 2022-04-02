@@ -20,6 +20,18 @@ WWXX               | 00 00 11 11
 XXXX               | 00 00 00 00
 YWY                | 00 01 11 01
 
+This data can then converted into indices on a vector like so:
+```C#
+public static (int x, int y, int z, int w) GetVector4Indices(byte mask)
+{
+	var x = (mask & 3);
+	var y = ((mask & 12) >> 2);
+	var z = ((mask & 48) >> 4);
+	var w = ((mask & 192) >> 6);
+	return (x, y, z, w);
+}
+```
+
 ## How to use
 Given this HLSL code:
 ```HLSL
