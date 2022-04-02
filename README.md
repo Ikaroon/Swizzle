@@ -4,7 +4,7 @@ Swizzle operations are well known in shader languages like HLSL. However, they n
 This code is an attempt to implement this feature into unity in a reasonable way without cluttering code auto completion with hundreds of methods.
  
 ## How it works
-The idea behind this solution is the usage of enums. Each enum value defines a swizzle operation. However, instead of using a huge switch state to evaluate which order of vector components we need this attempt uses the underlying integer values to define the swizzle operation on a bit level.
+The idea behind this solution is the usage of enums. Each enum value defines a swizzle operation. However, instead of using a huge switch block to evaluate which order of vector components we need this attempt uses the underlying integer values to define the swizzle operation on a bit level.
 
 For this we need 8 bits (1 byte) in which we group 2 bits together to define indices from 0 to 3 for each target component.
 In the image you can see how the bits relate to the input and output vectors.
