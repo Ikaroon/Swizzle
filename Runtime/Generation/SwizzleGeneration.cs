@@ -1,12 +1,6 @@
-﻿/**
-* @author Ikaroon
-* @projectname SwizzleOp
-* @year 2022
-*/
+﻿using System.Text;
 
-using System.Text;
-
-namespace Ikaroon.ExMath.Vector.Generation
+namespace Ikaroon.Swizzle.Generation
 {
 	/// <summary>
 	/// This is only included for transparency.

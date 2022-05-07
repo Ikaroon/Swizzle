@@ -1,12 +1,6 @@
-﻿/**
-* @author Ikaroon
-* @projectname SwizzleOp
-* @year 2022
-*/
+﻿using UnityEngine;
 
-using UnityEngine;
-
-namespace Ikaroon.ExMath.Vector
+namespace Ikaroon.Swizzle
 {
 	/// <summary>
 	/// Swizzles any Unity Vector2/3/4 into another Vector2/3/4

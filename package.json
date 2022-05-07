@@ -1,0 +1,25 @@
+{
+  "name": "com.ikaroon.swizzle",
+  "version": "1.0.0",
+  "displayName": "Swizzle",
+  "description": "An extension that supports swizzle operations for Unity's Vector implementation.",
+  "unity": "2020.3",
+  "keywords": [
+    "ikaroon",
+    "swizzle",
+    "c#",
+    "vector2",
+    "vector3",
+    "vector4"
+  ],
+  "author": {
+    "name": "Ikaroon",
+    "email": "hi@marian-brinkmann.com",
+    "url": "https://marian-brinkmann.com/"
+  },
+  "type": "library",
+  "documentationUrl": "https://github.com/Ikaroon/SwizzleOperations",
+  "changelogUrl": "https://github.com/Ikaroon/SwizzleOperations/commits/main",
+  "license": "See LICENSE.md file",
+  "licensesUrl": "https://github.com/Ikaroon/SwizzleOperations/blob/main/LICENSE"
+}
