@@ -22,7 +22,7 @@ This code is an attempt to implement this feature into unity in a reasonable way
 1. Open the package manager in Unity from `Window>Package Manager`
 2. Select the `+` dropdown button in the top-left corner of the package manager
 3. Select `Add package from git URL...`
-4. Enter `https://github.com/Ikaroon/com.ikaroon.swizzle.git` as url and confirm
+4. Enter `https://github.com/Ikaroon/Swizzle.git` as url and confirm
 
 ## How it works
 The idea behind this solution is the usage of enums. Each enum value defines a swizzle operation. However, instead of using a huge switch block to evaluate which order of vector components we need this attempt uses the underlying integer values to define the swizzle operation on a bit level.
