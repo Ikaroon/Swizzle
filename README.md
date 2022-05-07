@@ -2,7 +2,12 @@
 ## Introduction
 Swizzle operations are well known in shader languages like HLSL. However, they never made its way into Unity’s implementation of vectors.
 This code is an attempt to implement this feature into unity in a reasonable way without cluttering code auto completion with hundreds of methods.
- 
+
+## Installation
+
+Follow these three simple steps and enter this url: `https://github.com/Ikaroon/com.ikaroon.swizzle.git`
+![PackageInstallation](https://user-images.githubusercontent.com/65419234/167270188-99300531-ec7e-45ea-89d9-612ec1d37eaf.png)
+
 ## How it works
 The idea behind this solution is the usage of enums. Each enum value defines a swizzle operation. However, instead of using a huge switch block to evaluate which order of vector components we need this attempt uses the underlying integer values to define the swizzle operation on a bit level.
 
