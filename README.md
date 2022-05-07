@@ -2,7 +2,7 @@
 
 <p align=center><a href="https://github.com/Ikaroon/com.ikaroon.swizzle/blob/master/LICENSE"><img src="https://badgen.net/github/license/Naereen/Strapdown.js"/></a>
 <a href="https://GitHub.com/Ikaroon/com.ikaroon.swizzle/releases/"><img src="https://img.shields.io/badge/Release-1.0.0-green.svg"/></a>
-<a href="https://www.paypal.com/donate/?hosted_button_id=UXXU2J55628VG"><img src="https://img.shields.io/badge/Donate-Paypal-blue.svg"/></a></p>
+<a href="https://ko-fi.com/ikaroon"><img src="https://img.shields.io/badge/Donate-Ko-Fi-red.svg"/></a></p>
 
 # Swizzle Operations
 ## Introduction
@@ -92,4 +92,4 @@ Work on this project happens in my freetime and, therefore, I cannot promise if 
 ## Donation
 If this project helped you and you want to show gratitude, you can treat me to a coffee or so :D
 
-[![Donate](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=UXXU2J55628VG)
+[![Donate](https://img.shields.io/badge/Donate-Ko-Fi-red.svg)](https://ko-fi.com/ikaroon)
