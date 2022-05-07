@@ -5,7 +5,6 @@ This code is an attempt to implement this feature into unity in a reasonable way
 
 ## Installation
 
-Follow these three simple steps and enter this url: `https://github.com/Ikaroon/com.ikaroon.swizzle.git`
 ![PackageInstallation](https://user-images.githubusercontent.com/65419234/167270188-99300531-ec7e-45ea-89d9-612ec1d37eaf.png)
 1. Open the package manager in Unity from `Window>Package Manager`
 2. Select the `+` dropdown button in the top-left corner of the package manager
