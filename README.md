@@ -1,7 +1,20 @@
+![SwizzleOp](https://user-images.githubusercontent.com/65419234/167270835-2e53e0ad-20c4-469f-82a7-b3ab759419d0.png)
+
+<p align=center><a href="https://github.com/Ikaroon/com.ikaroon.swizzle/blob/master/LICENSE"><img src="https://badgen.net/github/license/Naereen/Strapdown.js"/></a>
+<a href="https://GitHub.com/Ikaroon/com.ikaroon.swizzle/releases/"><img src="https://img.shields.io/badge/Release-1.0.0-green.svg"/></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=UXXU2J55628VG"><img src="https://img.shields.io/badge/Donate-Paypal-blue.svg"/></a></p>
+
 # Swizzle Operations
 ## Introduction
 Swizzle operations are well known in shader languages like HLSL. However, they never made its way into Unity’s implementation of vectors.
 This code is an attempt to implement this feature into unity in a reasonable way without cluttering code auto completion with hundreds of methods.
+
+## Features
+- [x] 2D to 2D, 3D, 4D
+- [x] 3D to 2D, 3D, 4D
+- [x] 4D to 2D, 3D, 4D
+- [x] Custom masks
+- [x] Bit based swizzle
 
 ## Installation
 
@@ -71,3 +84,12 @@ var b = new Vector3(vector.x, vector.x, vector.y);
 var c = new Vector4(vector.z, vector.y, vector.x, vector.x);
 ```
 However, this might still be useful if you need user defined swizzle instructions. This might be a shader graph or remapping 3D vectors to a specific 2D plane.
+
+
+## Notice
+Work on this project happens in my freetime and, therefore, I cannot promise if and when certain features are added. I am considering to open this up for contribution but for now you can manipulate the code as you please. This project is MIT licensed and may be used freely. (Check the license file for more information)
+
+## Donation
+If this project helped you and you want to show gratitude, you can treat me to a coffee or so :D
+
+[![Donate](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=UXXU2J55628VG)
