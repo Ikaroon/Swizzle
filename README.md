@@ -1,4 +1,4 @@
-![SwizzleOp](https://user-images.githubusercontent.com/65419234/167270835-2e53e0ad-20c4-469f-82a7-b3ab759419d0.png)
+<p align=center><img alt="Swizzle Logo" width="400px" src="https://user-images.githubusercontent.com/65419234/167305453-69c11724-6aa2-4b7d-bad2-2cff785f0115.png"/></p>
 
 <p align=center><a href="https://github.com/Ikaroon/com.ikaroon.swizzle/blob/master/LICENSE"><img src="https://badgen.net/github/license/Naereen/Strapdown.js"/></a>
 <a href="https://GitHub.com/Ikaroon/com.ikaroon.swizzle/releases/"><img src="https://img.shields.io/badge/release-1.0.0-green.svg"/></a>
