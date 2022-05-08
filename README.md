@@ -1,8 +1,8 @@
 ![SwizzleOp](https://user-images.githubusercontent.com/65419234/167270835-2e53e0ad-20c4-469f-82a7-b3ab759419d0.png)
 
 <p align=center><a href="https://github.com/Ikaroon/com.ikaroon.swizzle/blob/master/LICENSE"><img src="https://badgen.net/github/license/Naereen/Strapdown.js"/></a>
-<a href="https://GitHub.com/Ikaroon/com.ikaroon.swizzle/releases/"><img src="https://img.shields.io/badge/Release-1.0.0-green.svg"/></a>
-<a href="https://ko-fi.com/ikaroon"><img src="https://img.shields.io/badge/Donate-Ko--Fi-red.svg"/></a></p>
+<a href="https://GitHub.com/Ikaroon/com.ikaroon.swizzle/releases/"><img src="https://img.shields.io/badge/release-1.0.0-green.svg"/></a>
+<img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/Ikaroon/Swizzle"></p>
 
 # Swizzle Operations
 ## Introduction
@@ -92,4 +92,4 @@ Work on this project happens in my freetime and, therefore, I cannot promise if 
 ## Donation
 If this project helped you, you can treat me to a coffee if you want ☕
 
-[![Donate](https://img.shields.io/badge/Donate-Ko--Fi-red.svg)](https://ko-fi.com/ikaroon)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1CKI7W)
