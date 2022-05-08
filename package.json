@@ -18,8 +18,8 @@
     "url": "https://marian-brinkmann.com/"
   },
   "type": "library",
-  "documentationUrl": "https://github.com/Ikaroon/com.ikaroon.swizzle",
-  "changelogUrl": "https://github.com/Ikaroon/com.ikaroon.swizzle/commits/main",
+  "documentationUrl": "https://github.com/Ikaroon/Swizzle",
+  "changelogUrl": "https://github.com/Ikaroon/Swizzle/commits/main",
   "license": "See LICENSE.md file",
-  "licensesUrl": "https://github.com/Ikaroon/com.ikaroon.swizzle/blob/main/LICENSE"
+  "licensesUrl": "https://github.com/Ikaroon/Swizzle/blob/main/LICENSE"
 }
