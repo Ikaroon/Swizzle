@@ -90,6 +90,6 @@ However, this might still be useful if you need user defined swizzle instruction
 Work on this project happens in my freetime and, therefore, I cannot promise if and when certain features are added. I am considering to open this up for contribution but for now you can manipulate the code as you please. This project is MIT licensed and may be used freely. (Check the license file for more information)
 
 ## Donation
-If this project helped you and you want to show gratitude, you can treat me to a coffee or so :D
+If this project helped you, you can treat me to a coffee if you want ☕
 
 [![Donate](https://img.shields.io/badge/Donate-Ko--Fi-red.svg)](https://ko-fi.com/ikaroon)
