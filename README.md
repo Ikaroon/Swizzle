@@ -41,7 +41,7 @@ WWXX               | 00 00 11 11
 XXXX               | 00 00 00 00
 YWY                | 00 01 11 01
 
-This data can then converted into indices on a vector like so:
+This data can then be converted into indices on a vector like so:
 ```C#
 public static (int x, int y, int z, int w) GetVector4Indices(byte mask)
 {
@@ -76,7 +76,7 @@ var result = vector.To3D(swizzleMask.ToMask());
 ```
 
 ## Performance and Use-Case
-Even though this extension makes the code shorter it takes approximately double as long as a manual swizzle like this one:
+Even though this extension makes the code shorter it takes approximately twice as long as a manual swizzle like this one:
 ```C#
 var vector = new Vector3(1, 2, 3);
 var a = new Vector3(vector.y, vector.z, vector.x);
